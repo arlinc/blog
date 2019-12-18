@@ -1,0 +1,86 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 20px;
+    max-width: 800px;
+    width: 70%;
+    margin: 20px auto;
+}
+h2 {
+    color: #2c3e50;
+}
+h4 {
+    color: #3498db;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+}
+ 
+
+#dates {
+    border: 15px solid #bdc3c7;
+    width: 70%;
+     center;
+    margin-bottom: 15px;
+    padding: 6px;
+}
+#main {
+    border: 15px solid #bdc3c7;
+    padding: 6px;
+    width: 70%;
+}
+hr {
+    border-top: 1px solid #bdc3c7;
+  }
+  table{
+    color: rgb(18,14,94);
+    font-size: 11px;
+    }
+    #source {
+        background-color: rgb(159, 172, 235);
+        font-weight: bold;
+        font-size: 17px;
+        
+    }  
+  #link {
+    background-color: rgb(199, 127, 174);
+    position: relative;
+    padding:22px;
+    margin-top:40px;
+    border-radius:10px;
+    
+      }
+    #link img {
+        float: right;
+        position:relative;
+        top:-112px;
+    }  
+    #git {
+    background-color: rgb(13, 6, 199);
+    color: rgb(247, 247, 247);
+    position: relative;
+    padding:22px;
+    margin-top:40px;
+    border-radius:25px;
+    
+      }
+    #git img {
+        float: right;
+        position:relative;
+        top:-57px;
+    }  
+
+/*
+border color: #bdc3c7
+date color: #3498db
+h2 color #2c3e50
+
+font: source sans pro 
+font-family: 'Source Sans Pro', sans-serif;
+20px border
+
+left border 
+
+date all caps - letter spacing 
+
+hr line between */
+
+ 
